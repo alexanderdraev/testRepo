@@ -1,0 +1,5 @@
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\12.TestNumbers\bin\Debug\12.TestNumbers.exe.config
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\12.TestNumbers\bin\Debug\12.TestNumbers.exe
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\12.TestNumbers\bin\Debug\12.TestNumbers.pdb
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\12.TestNumbers\obj\Debug\12.TestNumbers.exe
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\12.TestNumbers\obj\Debug\12.TestNumbers.pdb

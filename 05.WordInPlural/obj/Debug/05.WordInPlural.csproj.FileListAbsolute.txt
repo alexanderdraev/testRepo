@@ -1,0 +1,1 @@
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\05.WordInPlural\bin\Debug\05.WordInPlural.exe.config

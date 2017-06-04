@@ -1,0 +1,6 @@
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\08.CaloriesCounter\bin\Debug\08.CaloriesCounter.exe.config
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\08.CaloriesCounter\bin\Debug\08.CaloriesCounter.exe
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\08.CaloriesCounter\bin\Debug\08.CaloriesCounter.pdb
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\08.CaloriesCounter\obj\Debug\08.CaloriesCounter.csprojResolveAssemblyReference.cache
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\08.CaloriesCounter\obj\Debug\08.CaloriesCounter.exe
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\08.CaloriesCounter\obj\Debug\08.CaloriesCounter.pdb

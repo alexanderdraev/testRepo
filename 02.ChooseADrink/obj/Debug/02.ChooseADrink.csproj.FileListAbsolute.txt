@@ -1,0 +1,5 @@
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\02.ChooseADrink\bin\Debug\02.ChooseADrink.exe.config
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\02.ChooseADrink\bin\Debug\02.ChooseADrink.exe
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\02.ChooseADrink\bin\Debug\02.ChooseADrink.pdb
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\02.ChooseADrink\obj\Debug\02.ChooseADrink.exe
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\02.ChooseADrink\obj\Debug\02.ChooseADrink.pdb

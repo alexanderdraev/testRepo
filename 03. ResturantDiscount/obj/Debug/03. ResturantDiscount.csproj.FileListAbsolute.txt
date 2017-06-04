@@ -1,0 +1,1 @@
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\03. ResturantDiscount\bin\Debug\_03.ResturantDiscount.exe.config

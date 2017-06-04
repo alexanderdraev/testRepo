@@ -1,0 +1,6 @@
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\07.CakeIngredients\bin\Debug\07.CakeIngredients.exe.config
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\07.CakeIngredients\bin\Debug\07.CakeIngredients.exe
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\07.CakeIngredients\bin\Debug\07.CakeIngredients.pdb
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\07.CakeIngredients\obj\Debug\07.CakeIngredients.csprojResolveAssemblyReference.cache
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\07.CakeIngredients\obj\Debug\07.CakeIngredients.exe
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\07.CakeIngredients\obj\Debug\07.CakeIngredients.pdb

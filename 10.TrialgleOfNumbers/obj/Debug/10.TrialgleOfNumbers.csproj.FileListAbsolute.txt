@@ -1,0 +1,5 @@
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\10.TrialgleOfNumbers\bin\Debug\10.TrialgleOfNumbers.exe.config
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\10.TrialgleOfNumbers\bin\Debug\10.TrialgleOfNumbers.exe
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\10.TrialgleOfNumbers\bin\Debug\10.TrialgleOfNumbers.pdb
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\10.TrialgleOfNumbers\obj\Debug\10.TrialgleOfNumbers.exe
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\10.TrialgleOfNumbers\obj\Debug\10.TrialgleOfNumbers.pdb

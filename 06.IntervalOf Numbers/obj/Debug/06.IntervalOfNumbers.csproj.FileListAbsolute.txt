@@ -1,0 +1,6 @@
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\06.IntervalOf Numbers\bin\Debug\06.IntervalOf Numbers.exe.config
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\06.IntervalOf Numbers\bin\Debug\06.IntervalOf Numbers.exe
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\06.IntervalOf Numbers\bin\Debug\06.IntervalOf Numbers.pdb
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\06.IntervalOf Numbers\obj\Debug\06.IntervalOfNumbers.csprojResolveAssemblyReference.cache
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\06.IntervalOf Numbers\obj\Debug\06.IntervalOf Numbers.exe
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\06.IntervalOf Numbers\obj\Debug\06.IntervalOf Numbers.pdb

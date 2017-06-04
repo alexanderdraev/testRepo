@@ -1,0 +1,1 @@
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\13.GameOfNumbers\bin\Debug\13.GameOfNumbers.exe.config

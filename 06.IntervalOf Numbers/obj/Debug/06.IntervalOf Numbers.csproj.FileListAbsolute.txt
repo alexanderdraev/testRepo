@@ -1,0 +1,1 @@
+D:\Softuni\CSharpConditionalStatementsAndLoopsExercises\06.IntervalOf Numbers\bin\Debug\06.IntervalOf Numbers.exe.config
